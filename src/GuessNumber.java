@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Zadanie1 {
+public class GuessNumber {
 
 	public static void main(String[] args) {
 		
@@ -26,10 +26,7 @@ public class Zadanie1 {
 				System.out.println("Za dużo!");
 			} else {
 				System.out.println("Za mało!");
-			}
-			
+			}	
 		}
-		
 	}
-
 }
